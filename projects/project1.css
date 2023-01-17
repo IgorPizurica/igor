@@ -1,0 +1,104 @@
+body {
+    text-align: center;
+    background-color: rgb(249, 223, 240);
+}
+
+h1 {
+    color: rgb(84, 16, 179);
+    font-family: 'Roboto';
+    font-size: 45px;
+}
+
+img {
+    height: 150px;
+    width: auto;
+}
+
+span {
+    background-color: bisque;
+    border-radius: 4px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+#MND-CSS {
+    background-color: bisque;
+    border-radius: 4px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+    text-align: left;
+    font-family: 'Oswald', sans-serif;
+    margin: 14px 0;
+    padding-left: 10px;
+
+}
+
+h2 {
+    font-family: 'Roboto';
+    text-align: left;
+}
+
+main {
+    padding: 28px;
+    background-color: rgb(84, 16, 179);
+    display: inline-block;
+    border-radius: 10px;
+    color: white;
+    font-size: 14px;
+    height: auto;
+    width: 750px;
+}
+
+main p {
+    text-align: left;
+    font-family: 'Oswald', sans-serif;
+}
+
+li span {
+    background-color: rgb(84, 16, 179);
+    color: bisque;
+}
+
+main a {
+    padding: 2px;
+    background-color: bisque;
+    border-radius: 4px;
+    color: black;
+    text-decoration: none;
+}
+
+footer a {
+    padding: 12px 24px;
+    background-color: orange;
+    border-radius: 12px;
+    text-decoration: none;
+    color: black;
+}
+
+footer {
+    margin-top: 32px;
+    margin-bottom: 64px;
+}
+
+footer a:hover {
+    background-color: rgb(244, 159, 0);
+    text-decoration: underline;
+}
+
+main a:hover {
+    text-decoration: underline;
+}
+
+.extra-important {
+    border-left: 5px solid orange;
+}
+
+footer p {
+    color: rgb(128, 128, 128);
+}
